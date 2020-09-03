@@ -1,9 +1,28 @@
+header {
+  background: pink;
+  color: black;
+}
 body {
  background-color: lightblue;
+ color: darkgreen;
 }
 
 
 
 .cool-nav {
   font-color: red;
+}
+
+.books {
+  background-color: cornsilk;
+
+}
+
+#list {
+  color: green;
+
+}
+
+a {
+  color: orange;
 }
